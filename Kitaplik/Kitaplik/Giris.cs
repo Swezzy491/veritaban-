@@ -62,10 +62,13 @@ namespace Kitaplik
             if (sayac2 == 0)
             {
                 button1.Enabled = true;
+                timer1.Enabled = false;
+                sayac = 0;
+                sayac2 = 10;
+                MessageBox.Show("Tekrar Deneyiniz");
+                
             }
-            timer1.Enabled = false;
-            sayac= 0;
-            sayac2 = 10;
+            
 
 
         } }
