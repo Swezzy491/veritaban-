@@ -39,13 +39,16 @@ namespace Kitaplik
         {
         groupBox2.Visible = true;
         button4.Visible = false;
+        button3.Visible = false;
+
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
          groupBox1.Visible = true;
          button3.Visible = false;
-
+         button4.Visible = false;
+         groupBox1.Location = groupBox2.Location;
         }
 
         private void sifremiunuttum_Load(object sender, EventArgs e)
@@ -93,6 +96,21 @@ namespace Kitaplik
                 giris.ShowDialog();
             }
             baglanti.Close();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            groupBox2.Visible = false;
+            groupBox1.Visible = true;
+            groupBox1.Location = groupBox2.Location;
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            groupBox1.Visible = false;
+            groupBox2.Visible = true;
+            groupBox1.Location = groupBox2.Location;
         }
     }
 }

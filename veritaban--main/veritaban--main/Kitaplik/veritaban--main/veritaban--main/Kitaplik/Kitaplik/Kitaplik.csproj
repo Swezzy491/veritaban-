@@ -99,6 +99,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="sifremiunuttum.agq.resx">
+      <DependentUpon>sifremiunuttum.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="sifremiunuttum.resx">
       <DependentUpon>sifremiunuttum.cs</DependentUpon>
     </EmbeddedResource>

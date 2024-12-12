@@ -91,15 +91,19 @@ namespace Kitaplik
 
         private void label4_Click(object sender, EventArgs e)
         {
+            Giris giris = new Giris();
             sifremiunuttum sifre = new sifremiunuttum();
             sifre.ShowDialog();
+            sifre.Location = giris.Location;
 
         }
 
         private void label5_Click(object sender, EventArgs e)
         {
             sifremiunuttum sifre = new sifremiunuttum();
+            Giris giris = new Giris();
             sifre.ShowDialog();
+            sifre.Location = giris.Location;
         }
     }
 }
