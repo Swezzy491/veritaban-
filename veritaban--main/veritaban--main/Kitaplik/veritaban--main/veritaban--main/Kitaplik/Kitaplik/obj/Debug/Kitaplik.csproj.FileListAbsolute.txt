@@ -50,3 +50,6 @@ C:\Users\LAB\Desktop\veritaban--main\veritaban--main\Kitaplik\veritaban--main\ve
 C:\Users\LAB\Desktop\veritaban--main\veritaban--main\Kitaplik\veritaban--main\veritaban--main\Kitaplik\Kitaplik\bin\Debug\agq\Kitaplik.resources.dll
 C:\Users\LAB\Desktop\veritaban--main\veritaban--main\Kitaplik\veritaban--main\veritaban--main\Kitaplik\Kitaplik\obj\Debug\Kitaplik.sifremiunuttum.agq.resources
 C:\Users\LAB\Desktop\veritaban--main\veritaban--main\Kitaplik\veritaban--main\veritaban--main\Kitaplik\Kitaplik\obj\Debug\agq\Kitaplik.resources.dll
+C:\Users\LAB\Desktop\veritaban--main\veritaban--main\Kitaplik\veritaban--main\veritaban--main\Kitaplik\Kitaplik\bin\Debug\tr\Kitaplik.resources.dll
+C:\Users\LAB\Desktop\veritaban--main\veritaban--main\Kitaplik\veritaban--main\veritaban--main\Kitaplik\Kitaplik\obj\Debug\Kitaplik.sifremiunuttum.tr.resources
+C:\Users\LAB\Desktop\veritaban--main\veritaban--main\Kitaplik\veritaban--main\veritaban--main\Kitaplik\Kitaplik\obj\Debug\tr\Kitaplik.resources.dll
